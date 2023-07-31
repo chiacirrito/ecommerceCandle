@@ -1,0 +1,57 @@
+[
+  {
+    "_id": {
+      "$oid": "64c51c0f192a3a9b264c06b1"
+    },
+    "img": "https://ecofactory.eu/cdn/shop/products/ciauru_2021_store-1.jpg?v=1647285215&width=840",
+    "titolo": "Ciauru",
+    "testo": "Quattro parole per trasmetterti la magia: la candela che fiorisce!",
+    "prezzo": "€4,95",
+    "descrizione": "Ciauru è veramente capace di regalarti tutto ciò: nella sua “prima vita” è una candela profumata in grado di profumare l’ambiente per tante ore con le sue esclusive fragranze. Dopo si trasforma in una splendida pianta fiorita",
+    "link": "https://ecofactory.eu/products/ciauru?variant=39892695711844"
+  },
+  {
+    "_id": {
+      "$oid": "64c51d39192a3a9b264c06b2"
+    },
+    "img": "https://ecofactory.eu/cdn/shop/products/relax_candle_store-1-scaled.jpg?v=1647286598&width=840",
+    "descrizione": "Contiene la candela che fiorisce, in fragranza selezionata e una gift card per scaricare oltre 50 ore di contenuti sonori da ascoltare. Il tutto in una confezione speciale, una bag in tessuto riutilizzabile.",
+    "link": "https://ecofactory.eu/collections/le-candele-che-fioriscono/products/relax-candle-2",
+    "prezzo": "€6,95",
+    "testo": "Una gift bag speciale, plurisensoriale",
+    "titolo": "Relax Candle"
+  },
+  {
+    "_id": {
+      "$oid": "64c51dff192a3a9b264c06b3"
+    },
+    "descrizione": "Contiene: bag in tessuto, candela in barattolo di vetro con colore variabile in base alla fragranza, dischetto di carta artigianale con semi di fiori, gift card Calming",
+    "img": "https://ecofactory.eu/cdn/shop/products/summer_candle_store-scaled.jpg?v=1647286645&width=840",
+    "link": "https://ecofactory.eu/collections/le-candele-che-fioriscono/products/summer-candle",
+    "prezzo": "€6,95",
+    "testo": "Una gift bag speciale, plurisensoriale",
+    "titolo": "Summer Candle"
+  },
+  {
+    "_id": {
+      "$oid": "64c51e94192a3a9b264c06b4"
+    },
+    "descrizione": "La scatola contiene tutto ciò che serve per far nascere e crescere una pianta, dovrai aggiungere solo acqua e sole.",
+    "img": "https://ecofactory.eu/cdn/shop/products/greenbox_fiori_store-1-scaled.jpg?v=1647076618&width=840",
+    "link": "https://ecofactory.eu/collections/cofanetti/products/greenbox-fiori",
+    "prezzo": "€4,95",
+    "testo": "Il cofanetto delle meraviglie: un’esplosione di natura",
+    "titolo": "Greenbox Fiori"
+  },
+  {
+    "_id": {
+      "$oid": "64c51f4a192a3a9b264c06b5"
+    },
+    "descrizione": "La scatola contiene tutto ciò che serve per far nascere e crescere una pianta, dovrai aggiungere solo acqua e sole.",
+    "img": "https://ecofactory.eu/cdn/shop/products/42_dda6e93b-b640-4149-85d9-b17c3cb89900.png?v=1666708973&width=840",
+    "link": "https://ecofactory.eu/collections/cofanetti/products/greenbox-hellobee",
+    "prezzo": "€7,95",
+    "testo": "Il cofanetto delle meraviglie: un’esplosione di natura",
+    "titolo": "Greenbox Hellobee"
+  }
+]

@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "64c7c2701ab437982a7901eb"
+  },
+  "img": "https://ecofactory.eu/cdn/shop/products/19_cc3f9180-1835-43c3-af20-7baf84ee17b9.png?v=1666251567&width=840",
+  "titolo": "Arnia Rovigo",
+  "prezzo": "€7,95",
+  "link": "https://ecofactory.eu/collections/le-novita/products/arnia-rovigo-premium"
+},
+{
+  "_id": {
+    "$oid": "64c7c2ec1ab437982a7901ec"
+  },
+  "img": "https://ecofactory.eu/cdn/shop/products/45_d8027092-a356-4938-8f1f-d0041b654ca3.png?v=1666709451&width=840",
+  "titolo": "Greenbox Flower Boom",
+  "prezzo": "€4,95",
+  "link": "https://ecofactory.eu/collections/le-novita/products/greenbox-flower-boom"
+},
+{
+  "_id": {
+    "$oid": "64c7c3391ab437982a7901ed"
+  },
+  "img": "https://ecofactory.eu/cdn/shop/products/11_00515560-ffd9-4275-be8d-27df5238c168.png?v=1666711208&width=840",
+  "titolo": "Cartolina Adotta un Alveare",
+  "prezzo": "€4,95",
+  "link": "https://ecofactory.eu/collections/le-novita/products/cartolina-adotta-un-alveare"
+},
+{
+  "_id": {
+    "$oid": "64c7c3841ab437982a7901ee"
+  },
+  "img": "https://ecofactory.eu/cdn/shop/products/8.png?v=1664610871&width=480",
+  "titolo": "Adotta un Bosco - Scicli",
+  "prezzo": "€14,95",
+  "link": "https://ecofactory.eu/collections/le-novita/products/adotta-un-bosco-scicli"
+},
+{
+  "_id": {
+    "$oid": "64c7c3c71ab437982a7901ef"
+  },
+  "img": "https://ecofactory.eu/cdn/shop/files/31_69cb09fe-f666-4601-b697-1390e2882f01.png?v=1686232800&width=840",
+  "titolo": "Boschetto",
+  "prezzo": "€24,95",
+  "link": "https://ecofactory.eu/collections/le-novita/products/boschetto"
+}]

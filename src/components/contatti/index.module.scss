@@ -1,0 +1,39 @@
+.Contatti {
+  form {
+    padding: 100px 300px;
+    display: flex;
+    flex-direction: column;
+
+    input {
+      padding: 10px;
+    }
+  }
+  .social {
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    .icon {
+      font-size: 20pt;
+      color: rgb(94, 94, 94);
+    }
+    .icon:hover {
+      color: #2e856e;
+    }
+  }
+  p {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 50px 100px;
+  }
+}
+
+@media screen and (max-width: 1200px) {
+  .Contatti {
+    form {
+      padding: 50px;
+    }
+  }
+}

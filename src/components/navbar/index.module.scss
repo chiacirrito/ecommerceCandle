@@ -1,0 +1,30 @@
+.Navbar {
+  display: flex;
+  background-color: #2e856e;
+
+  cursor: pointer;
+  width: 100%;
+  height: 100px;
+  justify-content: flex-end;
+  align-items: center;
+
+  .menu {
+    display: flex;
+    gap: 30px;
+    padding: 10px 20px;
+    justify-content: space-evenly;
+
+    li {
+      list-style-type: none;
+    }
+
+    a {
+      text-decoration: none;
+      color: #b8d5cd;
+    }
+
+    a:hover {
+      color: rgb(80, 80, 80);
+    }
+  }
+}

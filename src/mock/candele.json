@@ -1,0 +1,54 @@
+[{
+  "_id": {
+    "$oid": "64c815921ab437982a7901f3"
+  },
+  "img": "https://ecofactory.eu/cdn/shop/products/aurora_2023_store.png?v=1675238058&width=840",
+  "titolo": "Aurora",
+  "prezzo": "€3,95",
+  "link": "https://ecofactory.eu/collections/le-candele-che-fioriscono/products/aurora"
+},
+{
+  "_id": {
+    "$oid": "64c815d01ab437982a7901f4"
+  },
+  "img": "https://ecofactory.eu/cdn/shop/products/ciauru_2021_store-1.jpg?v=1647285215&width=840",
+  "titolo": "Ciauru",
+  "prezzo": "€4,95",
+  "link": "https://ecofactory.eu/collections/le-candele-che-fioriscono/products/ciauru"
+},
+{
+  "_id": {
+    "$oid": "64c8161c1ab437982a7901f5"
+  },
+  "img": "https://ecofactory.eu/cdn/shop/products/relax_candle_store-1-scaled.jpg?v=1647286598&width=840",
+  "titolo": "Relax Candle",
+  "prezzo": "€6,95",
+  "link": "https://ecofactory.eu/collections/le-candele-che-fioriscono/products/relax-candle-2"
+},
+{
+  "_id": {
+    "$oid": "64c8165c1ab437982a7901f6"
+  },
+  "img": "https://ecofactory.eu/cdn/shop/products/focus_candle_store-scaled.jpg?v=1647286612&width=840",
+  "titolo": "Focus Candle",
+  "prezzo": "€6,95",
+  "link": "https://ecofactory.eu/collections/le-candele-che-fioriscono/products/focus-candle"
+},
+{
+  "_id": {
+    "$oid": "64c8169c1ab437982a7901f7"
+  },
+  "img": "https://ecofactory.eu/cdn/shop/products/flowers_candle_store-scaled.jpg?v=1647286623&width=840",
+  "titolo": "Flowers Candle",
+  "prezzo": "€6,95",
+  "link": "https://ecofactory.eu/collections/le-candele-che-fioriscono/products/flowers-candle"
+},
+{
+  "_id": {
+    "$oid": "64c816dc1ab437982a7901f8"
+  },
+  "img": "https://ecofactory.eu/cdn/shop/products/summer_candle_store-scaled.jpg?v=1647286645&width=840",
+  "titolo": "Summer Candle",
+  "prezzo": "€6,95",
+  "link": "https://ecofactory.eu/collections/le-candele-che-fioriscono/products/summer-candle"
+}]

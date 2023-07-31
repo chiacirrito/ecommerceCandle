@@ -1,0 +1,81 @@
+[{
+  "_id": {
+    "$oid": "64c8174d1ab437982a7901fa"
+  },
+  "img": "https://ecofactory.eu/cdn/shop/products/greenbox_fiori_store-1-scaled.jpg?v=1647076618&width=840",
+  "titolo": "Greenbox Fiori",
+  "prezzo": "€4,95",
+  "link": "https://ecofactory.eu/collections/cofanetti/products/greenbox-fiori"
+},
+{
+  "_id": {
+    "$oid": "64c817bc1ab437982a7901fb"
+  },
+  "img": "https://ecofactory.eu/cdn/shop/products/greenbox_classic_store-scaled.jpg?v=1647285105&width=840",
+  "titolo": "Greenbox",
+  "prezzo": "€5,95",
+  "link": "https://ecofactory.eu/collections/cofanetti/products/greenbox"
+},
+{
+  "_id": {
+    "$oid": "64c8180d1ab437982a7901fc"
+  },
+  "img": "https://ecofactory.eu/cdn/shop/products/planty_store-scaled.jpg?v=1647285638&width=840",
+  "titolo": "Planty",
+  "prezzo": "€7,95",
+  "link": "https://ecofactory.eu/collections/cofanetti/products/planty"
+},
+{
+  "_id": {
+    "$oid": "64c818541ab437982a7901fd"
+  },
+  "img": "https://ecofactory.eu/cdn/shop/products/greenbox_calming_store-scaled.jpg?v=1647286948&width=840",
+  "titolo": "Greenbox Calming",
+  "prezzo": "€7,95",
+  "link": "https://ecofactory.eu/collections/cofanetti/products/greenbox-calming"
+},
+{
+  "_id": {
+    "$oid": "64c818981ab437982a7901fe"
+  },
+  "img": "https://ecofactory.eu/cdn/shop/products/42_dda6e93b-b640-4149-85d9-b17c3cb89900.png?v=1666708973&width=840",
+  "titolo": "Greenbox Hellobee",
+  "prezzo": "€7,95",
+  "link": "https://ecofactory.eu/collections/cofanetti/products/greenbox-hellobee"
+},
+{
+  "_id": {
+    "$oid": "64c818d61ab437982a7901ff"
+  },
+  "img": "https://ecofactory.eu/cdn/shop/products/greenbox_centostorie_store-scaled.jpg?v=1647287020&width=840",
+  "titolo": "Greenbox Centostorie",
+  "prezzo": "€8,90",
+  "link": "https://ecofactory.eu/collections/cofanetti/products/greenbox-centostorie"
+},
+{
+  "_id": {
+    "$oid": "64c819321ab437982a790200"
+  },
+  "img": "https://ecofactory.eu/cdn/shop/products/43_ec3d67fb-361e-456f-8c47-f3df15e11dc6.png?v=1666709041&width=840",
+  "titolo": "Greenbox Hellobee Bees",
+  "prezzo": "€8,95",
+  "link": "https://ecofactory.eu/collections/cofanetti/products/greenbox-hellobee-bees"
+},
+{
+  "_id": {
+    "$oid": "64c8196c1ab437982a790201"
+  },
+  "img": "https://ecofactory.eu/cdn/shop/products/44_51f9d7ca-927c-4ca1-8f26-6f3587f3ac28.png?v=1666709412&width=840",
+  "titolo": "Greenbox Bloom",
+  "prezzo": "€4,95",
+  "link": "https://ecofactory.eu/collections/cofanetti/products/greenbox-bloom"
+},
+{
+  "_id": {
+    "$oid": "64c819a81ab437982a790202"
+  },
+  "img": "https://ecofactory.eu/cdn/shop/products/45_d8027092-a356-4938-8f1f-d0041b654ca3.png?v=1666709451&width=840",
+  "titolo": "Greenbox Flower Boom€",
+  "prezzo": "€4,95",
+  "link": "https://ecofactory.eu/collections/cofanetti/products/greenbox-flower-boom"
+}]

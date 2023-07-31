@@ -1,0 +1,45 @@
+.SectionCandle {
+  .intestazione {
+    padding: 50px 20px 0;
+    font-size: 18pt;
+    color: #006a4e;
+  }
+
+  .list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    padding: 50px;
+  }
+
+  .div {
+    display: flex;
+    flex-direction: column;
+
+    h4 {
+      color: #006a4e;
+    }
+
+    .acquista {
+      padding: 10px;
+      display: flex;
+      flex-direction: column;
+      justify-content: flex-end;
+      align-items: end;
+      gap: 10px;
+
+      .carrello {
+        font-size: 15pt;
+        padding: 5px;
+        border-radius: 100%;
+        border: 1px solid #006a4e4e;
+      }
+
+      .carrello:hover {
+        background-color: #006a4e62;
+      }
+    }
+  }
+}

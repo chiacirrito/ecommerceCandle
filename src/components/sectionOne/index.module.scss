@@ -1,0 +1,73 @@
+.SectionOne {
+  .intestazione {
+    padding: 50px 20px 0;
+    font-size: 18pt;
+    color: #006a4e;
+  }
+
+  .list {
+    display: flex;
+    gap: 50px;
+    padding: 50px;
+    .div {
+      display: flex;
+      flex-direction: column;
+      border-radius: 5%;
+
+      h4 {
+        color: #006a4e;
+      }
+
+      .testo {
+        padding: 10px;
+        text-align: start;
+      }
+      .acquista {
+        padding: 10px;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-end;
+        align-items: end;
+        gap: 10px;
+
+        .carrello {
+          font-size: 15pt;
+          padding: 5px;
+          border-radius: 100%;
+          border: 1px solid #006a4e4e;
+        }
+
+        .carrello:hover {
+          background-color: #006a4e62;
+        }
+      }
+      .expand {
+        width: 30px;
+        padding: 10px;
+        .descrizione {
+          font-size: 11pt;
+          width: 250px;
+          display: none;
+        }
+      }
+      .expand:hover {
+        .descrizione {
+          display: block;
+        }
+      }
+    }
+  }
+}
+
+@media screen and (max-width: 1200px) {
+  .SectionOne {
+    .list {
+      padding: 20px 50px;
+      display: flex;
+      justify-content: flex-start;
+      align-items: center;
+      overflow: hidden;
+      overflow-x: scroll;
+    }
+  }
+}
